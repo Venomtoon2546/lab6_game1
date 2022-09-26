@@ -114,7 +114,7 @@ namespace lab6_game1
                 }
             }
             
-
+            //dog
             base.Update(gameTime);
         }
 
