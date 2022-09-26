@@ -21,6 +21,11 @@ namespace lab6_game1
         int direction = 0;
         int speed = 2;
 
+
+
+
+
+
         int frame;
         int totalframe;
         int framepersec;
