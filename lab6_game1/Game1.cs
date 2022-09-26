@@ -120,6 +120,7 @@ namespace lab6_game1
             {
                 device.Clear(Color.CornflowerBlue);
             } 
+
             else 
             { 
                 device.Clear(Color.CornflowerBlue); 
