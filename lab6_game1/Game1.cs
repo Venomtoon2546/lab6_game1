@@ -110,7 +110,6 @@ namespace lab6_game1
             }
             
 
-
             base.Update(gameTime);
         }
 
