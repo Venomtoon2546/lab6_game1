@@ -141,6 +141,7 @@ namespace lab6_game1
             _spriteBatch.End();
 
             base.Draw(gameTime);
+
         }
         void UpdateFrame(float elapsed)
         {
